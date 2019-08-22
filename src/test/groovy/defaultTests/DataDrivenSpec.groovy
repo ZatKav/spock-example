@@ -1,3 +1,4 @@
+package defaultTests
 /*
  * Copyright 2009 the original author or authors.
  *
@@ -14,7 +15,8 @@
  * limitations under the License.
  */
 
-import spock.lang.*
+import spock.lang.Specification
+import spock.lang.Unroll
 
 @Unroll
 class DataDrivenSpec extends Specification {

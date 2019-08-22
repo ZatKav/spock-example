@@ -1,3 +1,4 @@
+package defaultTests
 /*
  * Copyright 2010 the original author or authors.
  *
@@ -12,7 +13,7 @@
  * limitations under the License.
  */
 
-import spock.lang.*
+import spock.lang.Specification
 
 /**
  * The expected order of interactions can now be specified by using multiple

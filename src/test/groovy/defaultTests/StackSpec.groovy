@@ -1,3 +1,4 @@
+package defaultTests
 /*
  * Copyright 2009 the original author or authors.
  *

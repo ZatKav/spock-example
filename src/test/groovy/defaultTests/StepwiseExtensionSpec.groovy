@@ -1,3 +1,4 @@
+package defaultTests
 /*
  * Copyright 2010 the original author or authors.
  *
@@ -12,7 +13,8 @@
  * limitations under the License.
  */
 
-import spock.lang.*
+import spock.lang.Specification
+import spock.lang.Stepwise
 
 /**
  * Demonstrates how {@code @Stepwise} causes a spec to be run in incremental steps.
